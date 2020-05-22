@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/live-demo-applist/static/css/main.32f0272f.chunk.css",
+    "main.js": "/live-demo-applist/static/js/main.77eb38bd.chunk.js",
+    "main.js.map": "/live-demo-applist/static/js/main.77eb38bd.chunk.js.map",
+    "runtime-main.js": "/live-demo-applist/static/js/runtime-main.41c1e12b.js",
+    "runtime-main.js.map": "/live-demo-applist/static/js/runtime-main.41c1e12b.js.map",
+    "static/js/2.ba9bcb7a.chunk.js": "/live-demo-applist/static/js/2.ba9bcb7a.chunk.js",
+    "static/js/2.ba9bcb7a.chunk.js.map": "/live-demo-applist/static/js/2.ba9bcb7a.chunk.js.map",
+    "index.html": "/live-demo-applist/index.html",
+    "precache-manifest.dd411de1022bb618bdb7e6c0ab5bcfba.js": "/live-demo-applist/precache-manifest.dd411de1022bb618bdb7e6c0ab5bcfba.js",
+    "service-worker.js": "/live-demo-applist/service-worker.js",
+    "static/css/main.32f0272f.chunk.css.map": "/live-demo-applist/static/css/main.32f0272f.chunk.css.map",
+    "static/js/2.ba9bcb7a.chunk.js.LICENSE.txt": "/live-demo-applist/static/js/2.ba9bcb7a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/live-demo-applist/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41c1e12b.js",
+    "static/js/2.ba9bcb7a.chunk.js",
+    "static/css/main.32f0272f.chunk.css",
+    "static/js/main.77eb38bd.chunk.js"
+  ]
+}

@@ -1,0 +1,40 @@
+.item-list{
+    margin-top: 10%;
+    border-top: lawngreen;
+    background-color: #f7f7f7;
+    padding: 10px;
+}
+
+.item-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+.item-table td, .item-table th {
+    border: 1px solid #eaeaea;
+    padding: 4px;
+    text-align: center;
+}
+
+.cancle-btn{
+    padding: 2px 4px;
+    margin: 8px 0;
+    background-color:#ff002f; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.right-span{
+    float: right;
+}
+
+.total-item{
+    color: #fd0052;
+}
+
